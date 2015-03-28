@@ -8,6 +8,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4486"
@@ -16,9 +17,17 @@
    width="19"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="close_focused_prelight.svg">
+   sodipodi:docname="close_focused_pressed.svg">
   <defs
      id="defs10">
+    <linearGradient
+       id="linearGradient3755"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#888844;stop-opacity:1;"
+         offset="0"
+         id="stop3757" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3781"
        osb:paint="solid">
@@ -27,6 +36,15 @@
          offset="0"
          id="stop3783" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755"
+       id="linearGradient3759"
+       x1="2.5"
+       y1="9.5"
+       x2="16.5"
+       y2="9.5"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -37,15 +55,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="960"
-     inkscape:window-height="1028"
+     inkscape:window-width="958"
+     inkscape:window-height="1019"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="18.911167"
-     inkscape:cx="11.912296"
+     inkscape:cx="2.5527467"
      inkscape:cy="7.3185729"
-     inkscape:window-x="960"
-     inkscape:window-y="24"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="g4113" />
   <metadata
@@ -56,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,7 +92,7 @@
          y="1033.86"
          x="-0.5" />
       <path
-         style="opacity:0.75;fill:#f07e5b;fill-opacity:1;stroke:none"
+         style="opacity:0.75000000000000000;fill:url(#linearGradient3759);fill-opacity:1;stroke:none"
          d="M 9.5 2.5 C 5.6268908 2.5 2.5 5.6269 2.5 9.5 C 2.5 13.3732 5.6268908 16.5 9.5 16.5 C 13.373108 16.5 16.5 13.3732 16.5 9.5 C 16.5 5.6269 13.373108 2.5 9.5 2.5 z M 7.5625 6.15625 L 9.5 8.09375 L 11.4375 6.15625 L 12.84375 7.5625 L 10.90625 9.5 L 12.84375 11.4375 L 11.4375 12.84375 L 9.5 10.90625 L 7.5625 12.84375 L 6.15625 11.4375 L 8.09375 9.5 L 6.15625 7.5625 L 7.5625 6.15625 z "
          transform="translate(-0.5,1033.86)"
          id="path2985" />
